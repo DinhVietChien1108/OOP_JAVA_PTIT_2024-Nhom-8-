@@ -228,6 +228,7 @@ Product: Sản phẩm thuộc về một danh mục và được thêm vào hóa
 
 Table: Bàn thuộc về một khu vực, liên quan đến hóa đơn.
 
+abc
 Bill: Hóa đơn được tạo bởi nhân viên, bao gồm nhiều chi tiết hóa đơn (sản phẩm).
 
 BillDetail: Liên kết sản phẩm với hóa đơn.
