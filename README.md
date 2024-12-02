@@ -228,7 +228,6 @@ Product: Sản phẩm thuộc về một danh mục và được thêm vào hóa
 
 Table: Bàn thuộc về một khu vực, liên quan đến hóa đơn.
 
-abc
 Bill: Hóa đơn được tạo bởi nhân viên, bao gồm nhiều chi tiết hóa đơn (sản phẩm).
 
 BillDetail: Liên kết sản phẩm với hóa đơn.
@@ -236,3 +235,5 @@ BillDetail: Liên kết sản phẩm với hóa đơn.
 3. Xây dựng biểu đồ lớp (UML)
    
 ![image](https://github.com/user-attachments/assets/f37406e2-9e82-4a49-9382-41a8973be5ed)
+
+abc
